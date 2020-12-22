@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Kaamerad",
+        "items": [
+            "Canon",
+            "Nikon"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Objektiivid",
+        "items": [
+            "Canon"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Lisad",
+        "items": [
+            "Mälukaardid",
+            "Akud",
+            "Laadijad"
+        ]
+    }
+]

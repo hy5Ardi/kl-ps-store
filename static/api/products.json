@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Canon 3D",
+        "id": 1,
+        "price": 366.99,
+        "description": "Integer elementum interdum rutrum. Maecenas turpis elit, laoreet vitae odio ut, maximus placerat ex. Nulla facilisi. Mauris non ligula bibendum, tristique erat at, vestibulum ligula. Nullam at magna nec erat sollicitudin congue. Etiam interdum, magna et pulvinar fermentum, felis erat volutpat eros, vel mattis ipsum tellus sed nisi. In accumsan fermentum ipsum, in euismod velit luctus in. Nunc laoreet fringilla aliquet. Nam ante justo, laoreet id auctor et, pulvinar a felis. Vivamus vitae erat arcu. Morbi orci nibh, vestibulum ut venenatis a, placerat vitae ipsum. Sed nec turpis elit. Cras fringilla ipsum feugiat felis aliquet, quis facilisis odio ullamcorper. Sed blandit sem nec vestibulum cursus.",
+        "images": [
+            "/assets/images/0CWJP7EfXC.jpg",
+            "/assets/images/yWSWNsfwJE.jpg"
+        ]
+    },
+    {
+        "name": "Nikon 5D",
+        "id": 2,
+        "price": 699.99,
+        "description": "Phasellus in erat augue. Proin in feugiat arcu, et sagittis lectus. Nulla vestibulum libero vitae feugiat scelerisque. Maecenas lectus tortor, tristique nec laoreet consequat, accumsan in nulla. Nulla facilisi. Etiam at convallis erat, eu tempus lacus. Cras nec leo condimentum velit imperdiet cursus eu sit amet ligula. Donec et ornare tortor. Duis in lacus ligula. Vestibulum ac fringilla tortor, non iaculis metus. Sed accumsan convallis purus. Sed ornare dui ut luctus vestibulum. Fusce quis felis purus. Suspendisse tristique lacinia aliquet. Etiam ut elit est. Pellentesque eu hendrerit urna.",
+        "images": [
+            "/assets/images/63cryzh9oM.jpg",
+            "/assets/images/cBJ0ysfiy4.jpg"
+        ]
+    },
+    {
+        "name": "Nikon Titan 69",
+        "id": 3,
+        "price": 999.99,
+        "description": "Aliquam erat volutpat. Pellentesque id hendrerit sem. Vestibulum sed posuere justo, facilisis hendrerit nunc. Maecenas feugiat turpis non augue fringilla, sit amet tincidunt sapien semper. Nulla iaculis ultrices fringilla. Nam ut mi odio. Integer tempus sodales luctus. Morbi varius pellentesque luctus. Vivamus sollicitudin faucibus enim eu elementum. Nam vehicula ornare convallis. Donec nisi sem, convallis et tincidunt vitae, malesuada ornare orci. Duis lorem lectus, accumsan in dictum quis, sollicitudin sed erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "images": [
+            "/assets/images/IddWJOcYh9.jpg",
+            "/assets/images/6FgxCTgJi6.jpg"
+        ]
+    },
+    {
+        "name": "Card Reader",
+        "id": 4,
+        "price": 599.99,
+        "description": "Proin in facilisis nisl, sit amet ornare est. Aliquam at scelerisque massa. Etiam ornare quam in urna mollis, ac aliquam lectus venenatis. Praesent pulvinar, ligula vitae vehicula feugiat, risus risus aliquam lorem, id rhoncus lorem mi in mi. Aenean et risus a nunc bibendum aliquet vitae et ante. Aenean vitae aliquam orci, eget efficitur nisl. Duis id cursus tortor. Maecenas vel luctus massa, et hendrerit felis. Sed in odio ornare, ornare mi eget, efficitur purus. Morbi id justo in libero mollis volutpat sed a dolor. Donec euismod vitae tellus sit amet posuere. Duis maximus nisi id dui imperdiet feugiat. Mauris iaculis eu dolor eu rhoncus. Nulla ut enim volutpat, interdum lectus eu, bibendum lorem. Cras eget imperdiet ante, vitae efficitur nunc. Mauris ac pharetra purus, eget tincidunt tellus.",
+        "images": [
+            "/assets/images/n3ego7yBna.jpg",
+            "/assets/images/YdPaviKFG5.jpg"
+        ]
+    },
+    {
+        "name": "Mälukaart 64GB",
+        "id": 5,
+        "price": 29.99,
+        "description": "Suspendisse potenti. Nunc vulputate suscipit ornare. Integer libero orci, ultrices sit amet orci vel, dictum suscipit justo. Ut vitae magna eu erat vulputate ultricies. Suspendisse ut urna felis. Sed efficitur libero ligula, vel bibendum dolor placerat sit amet. Integer varius ac sem sed scelerisque. Nunc hendrerit tincidunt ex, sed rutrum tortor sodales sed. Vestibulum tincidunt ultricies sem, sed tincidunt lectus sagittis in. Nulla facilisi. Nullam in posuere lacus, sed sagittis justo. Donec quis pharetra ligula, at varius nibh. Fusce suscipit sollicitudin arcu, non sagittis augue imperdiet sit amet. Sed massa diam, eleifend id nisi vel, finibus congue magna. Cras id risus et nisi tristique malesuada. Mauris feugiat, turpis facilisis sagittis congue, ipsum purus luctus tortor, a maximus leo massa fermentum justo.",
+        "images": [
+            "/assets/images/Y7KeYc8sca.jpg",
+            "/assets/images/pFk92H2Kw0.jpg"
+        ]
+    },
+    {
+        "name": "Akulaadija",
+        "id": 6,
+        "price": 9.99,
+        "description": "Sed at mi vel massa consequat volutpat. Curabitur ut convallis ex. Phasellus at finibus tellus, at pretium eros. In molestie nec ligula sit amet condimentum. Sed cursus nisl metus, nec facilisis lectus vestibulum eget. Vestibulum quis urna bibendum magna pharetra interdum at at ipsum. Quisque eu lacus urna. Aenean a aliquet lectus. Etiam at ante sit amet nisi maximus venenatis sed a augue. Vivamus consectetur elit pulvinar augue mattis venenatis. Mauris leo dolor, hendrerit vitae tincidunt vel, porta sit amet ipsum.",
+        "images": [
+            "/assets/images/LIjOvGYhz1.jpg",
+            "/assets/images/XXNWsFtlAS.jpg"
+        ]
+    },
+    {
+        "name": "Light",
+        "id": 7,
+        "price": 269.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam massa est, facilisis ut tellus sit amet, hendrerit finibus sem. Proin id eleifend enim. Aenean in dolor lectus. Donec egestas tellus nisi, eu rhoncus tellus auctor eget. Ut molestie purus non orci convallis ullamcorper. Ut non felis elit. Morbi interdum nisi massa, nec hendrerit magna dignissim eget. Nunc condimentum, ante sit amet bibendum facilisis, lacus lectus imperdiet arcu, quis pulvinar sapien dolor a quam. Fusce porttitor aliquet dictum. Nam id pulvinar lacus. Etiam id mauris vel quam feugiat pellentesque a in erat. Ut congue, risus eu ornare molestie, massa nisi venenatis elit, quis gravida leo turpis fermentum ante. Vestibulum ut leo turpis. Suspendisse volutpat lacus in urna molestie, vitae placerat mi gravida.",
+        "images": [
+            "/assets/images/Rz6TbK17XV.jpg"
+        ]
+    }
+]

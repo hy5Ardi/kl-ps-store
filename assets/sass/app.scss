@@ -1,0 +1,110 @@
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+$enable-caret: false;
+
+$primary: #193042;
+
+* {
+	font-family: Lato !important;
+}
+
+.title {
+	font-weight: 900;
+	text-transform: uppercase;
+	color: $primary;
+	padding-bottom: 15px;
+}
+
+nav {
+	.navbar-toggler {
+		color: $primary !important;
+		border: 0;
+	}
+
+	.navbar-nav {
+		.nav-item {
+			margin-top: 10px;
+
+			.nav-link {
+				text-transform: uppercase;
+				letter-spacing: 2px;
+				font-weight: 800;
+				transition: all 0.5s;
+			}
+
+			.nav-link:hover {
+				color: $primary;
+			}
+		}
+	}
+}
+
+.cart-counter {
+	position: absolute;
+	top: 5px;
+	left: 20px;
+	font-size: 10px;
+}
+
+.product-list {
+	.card-body {
+		.card-title {
+			color: $primary;
+			font-weight: 900;
+		}
+	}
+}
+
+.squared {
+	border-radius: 0 !important;
+}
+
+// #337AB7
+
+.categories-list {
+	ul {
+		padding-left: 0;
+	}
+
+	.category-title {
+		color: $primary;
+		font-weight: 900;
+		text-align: center;
+		border-bottom: 1px solid #DDDDDD;
+		padding-bottom: 5px;
+	}
+
+	.nav-stacked {
+		li {
+			float: none !important;
+			display: block;
+			position: relative;
+
+			a {
+				padding: 3px 40px 3px 10px;
+				text-decoration: none;
+				display: block;
+				position: relative;
+				font-weight: 700;
+				color: #337AB7;
+			}
+
+			a:hover {
+				background-color: #EEEEEE;
+			}
+		}
+
+		li.active a {
+			color: #FFFFFF;
+			background-color: #337AB7; 
+		}
+	}
+}
+
+small {
+	color: gray;
+	font-size: 67%;
+}
