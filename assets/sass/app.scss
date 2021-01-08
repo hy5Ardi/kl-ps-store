@@ -19,6 +19,10 @@ $primary: #193042;
 }
 
 nav {
+	.cart-dropdown {
+		width: 225px;
+	}
+
 	.navbar-toggler {
 		color: $primary !important;
 		border: 0;
@@ -54,6 +58,7 @@ nav {
 		.card-title {
 			color: $primary;
 			font-weight: 900;
+			text-transform: uppercase;
 		}
 	}
 }
@@ -107,4 +112,8 @@ nav {
 small {
 	color: gray;
 	font-size: 67%;
+}
+
+.btn-warning {
+	background-color: #F0AD4E !important;
 }

@@ -2,25 +2,43 @@
     {
         "id": 1,
         "name": "Kaamerad",
-        "items": [
-            "Canon",
-            "Nikon"
+        "subcategories": [
+            {
+                "id": 1,
+                "name": "Canon"
+            },
+            {
+                "id": 2,
+                "name": "Nikon"
+            }
         ]
     },
     {
         "id": 2,
         "name": "Objektiivid",
-        "items": [
-            "Canon"
+        "subcategories": [
+            {
+                "id": 1,
+                "name": "Canon"
+            }
         ]
     },
     {
         "id": 3,
         "name": "Lisad",
-        "items": [
-            "Mälukaardid",
-            "Akud",
-            "Laadijad"
+        "subcategories": [
+            {
+                "id": 1,
+                "name": "Mälukaardid"
+            },
+            {
+                "id": 2,
+                "name": "Akud"
+            },
+            {
+                "id": 3,
+                "name": "Laadijad"
+            }
         ]
     }
 ]

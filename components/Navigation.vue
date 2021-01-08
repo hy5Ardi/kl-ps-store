@@ -20,7 +20,7 @@
 							<font-awesome-icon :icon="['fas', 'shopping-cart']"></font-awesome-icon>
 							<b-badge v-if="cart.length > 0" class="cart-counter" variant="danger" pill>{{ cart.length }}</b-badge>
 						</template>
-						<Cart></Cart>
+						<Cart class="cart-dropdown"></Cart>
 					</b-nav-item-dropdown>
 				</b-navbar-nav>
 			</b-collapse>

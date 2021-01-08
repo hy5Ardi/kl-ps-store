@@ -1,13 +1,21 @@
 <template>
     <div>
         <Navigation></Navigation>
-        <b-container>
+        <b-container class="pb-5">
+            <b-row class="mt-5 d-block d-md-block d-lg-none">
+                <b-col lg cols="12">
+                    <b-button variant="info" size="md" squared><font-awesome-icon :icon="['fas', 'bars']"></font-awesome-icon> Kategooriad</b-button>
+                    <b-button variant="warning" class="text-white" size="md" squared><font-awesome-icon :icon="['fas', 'search']"></font-awesome-icon> Otsing</b-button>
+                </b-col>
+            </b-row>
             <b-row class="mt-5">
                 <div class="col-lg-3">
                     <Categories></Categories>
                 </div>
                 <div class="col-lg-9">
-                    <h2 class="title">Kõik tooted</h2>
+                    <h2 class="title">Kõik tooted
+                        <small>{{ products.length }}</small>
+                    </h2>
                     <div class="product-list">
                         <b-card-group columns>
                             <ProductCard v-for="product in products" :key="product.id" :product="product"></ProductCard>
@@ -16,6 +24,7 @@
                 </div>
             </b-row>
         </b-container>
+        <Footer></Footer>
     </div>
 </template>
 
@@ -23,10 +32,11 @@
     import Navigation from '@/components/Navigation.vue';
     import ProductCard from '@/components/ProductCard.vue';
     import Categories from '@/components/Categories.vue';
+    import Footer from '@/components/Footer.vue';
 
     export default {
         components: {
-            Navigation, ProductCard, Categories
+            Navigation, Footer, ProductCard, Categories
         },
 
         created() {
