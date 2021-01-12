@@ -10,7 +10,7 @@
             </b-row>
             <b-row class="mt-5">
                 <div class="col-lg-3 d-block d-md-block d-lg-none">
-                    <b-collapse visible id="categories">
+                    <b-collapse id="categories">
                         <Categories></Categories>
                     </b-collapse>
                 </div>
