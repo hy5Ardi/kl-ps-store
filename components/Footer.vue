@@ -20,7 +20,7 @@
                 </div>
                 <div class="col-lg-3">
                     <h5 class="title">Info</h5>
-                    <ul class="list-unstyled mb-0">
+                    <ul class="list-unstyled">
                         <li><b-link class="text-dark" to="terms">Tingimused</b-link></li>
                         <li><b-link class="text-dark" to="faq">KKK</b-link></li>
                         <li><b-link class="text-dark" to="outlets">Esindused</b-link></li>
@@ -29,7 +29,7 @@
                 </div>
                 <div class="col-lg-3">
                     <h5 class="title">Jälgi meid</h5>
-                    <ul class="list-unstyled mb-0">
+                    <ul class="list-unstyled">
                         <li>
                             <b-link to="facebook">
                                 <b-avatar variant="primary">
